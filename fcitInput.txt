@@ -1,0 +1,97 @@
+Add_Computer Dell 4.5 Inspiron-14 c1
+Add_Computer Fujitsu 5.6 SRS c2
+Add_Computer Dell 4.4 Inspiron-11 c3
+Add_Computer Fujitsu 4.6 ESPRIMO-X-Series c4
+Add_Computer Dell 4.6 Inspiron-15 c5
+Add_Computer Fujitsu 4.5 ESPRIMO-Y-Series c6
+Add_Computer Dell 4.7 Inspiron-15-DVD c7
+Add_Computer Fujitsu 6.6 ESPRIMO-z-Series c8
+Add_Computer Dell 4.8 Inspiron-13-2-in-1 c9
+Add_Computer Fujitsu 5.2 ESPRIMO-Y-Series c10
+Add_Computer Dell 4.9 Inspiron-17 c11
+Add_Computer Fujitsu 5.6 SRS c12
+Add_Computer Dell 6.2 INSPIRON-Special-Edition c13
+Add_Computer Fujitsu 5.6 SRS c14 
+Add_Computer Dell 4.5 Inspiron-14 c15
+Add_Computer Fujitsu 5.6 SRS c16
+Add_Computer Dell 4.4 Inspiron-11 c17
+Add_Computer Fujitsu 4.6 ESPRIMO-X-Series c18
+Add_Computer Dell 4.6 Inspiron-15 c19
+Add_Computer Fujitsu 5.2 ESPRIMO-Y-Series c20
+Add_Computer Dell 4.7 Inspiron-15-DVD c21
+Add_Computer Fujitsu 6.6 ESPRIMO-z-Series c22
+Add_Computer Dell 4.8 Inspiron-13-2-in-1 c23
+Add_Computer Fujitsu 5.2 ESPRIMO-Y-Series c24
+Add_Computer Dell 4.9 Inspiron-17 c25
+Add_Computer Fujitsu 5.6 SRS c26
+Add_Computer Dell 6.2 INSPIRON-Special-Edition c27
+Add_Computer Fujitsu 5.6 SRS c28
+Add_Computer Fujitsu 5.6 SRS c29
+Add_Printer HP DeskJet true p1
+Add_Printer Canon DeskJet false p2
+Add_Printer Canon DeskJet true p3
+Add_Printer HP Lazer false p4
+Add_Printer HP Lazer true p5
+Add_Printer HP DeskJet false p6
+Add_Printer Canon Lazer false p7
+Add_Printer Canon Lazer true  p8
+Add_Mouse HP Wireless m1
+Add_Mouse logitech Wireless m2
+Add_Software Microsoft-Office 2015 s1
+Add_Software Kasper-Sky-Antivirus 2015 s2
+Add_Software Microsoft-Visio 2015 s3
+Add_Software Microsoft-Visual_Studio.net 2015 s4
+Add_Software Mysql 5.624 s5
+Add_Software NetBeans-IDE 8.2 s6
+Add_Software Adobe-Dreamweaver 2015 s7
+Add_Software Adobe-Reader 11.10 s8
+Add_Software Adobe-Photoshop 2015 s9
+Add_Software MSSQL-Server 2015 s10
+Install_SW c1 s1
+Install_SW c2 s1
+Install_SW c5 s7
+Install_SW c7 s9
+Install_SW c10 s2
+Install_SW c1 s2
+Install_SW c2 s1
+Install_SW c15 s5
+Install_SW c7 s1
+Install_SW c12 s6
+Install_SW c1 s3
+Install_SW c23 s3
+Install_SW c13 s4
+Install_SW c7 s9
+Install_SW c12 s7
+Install_SW c1 s4
+Install_SW c27 s5
+Install_SW c1 s5
+Install_SW c5 s8
+Install_SW c1 s6
+Install_printer c1 p1
+Install_printer c2 p2
+Install_printer c5 p3
+Install_printer c7 p1
+Install_printer c1 p1
+Install_printer c17 p4
+Install_printer c19 p5
+Install_printer c20 p6
+Install_mouse c1 m1
+Install_mouse c2 m2
+Install_mouse c5 m1
+Install_mouse c1 m1
+Install_mouse c20 m2
+Install_mouse c21 m2
+Install_mouse c8 m1
+Install_mouse c9 m2
+Install_mouse c20 m1
+UnInstall_SW c13 s4
+UnInstall_SW c5 s9
+List_All_Computer_Configuration
+List_Computer_With_SW Microsoft-Office
+List_Computer_Speed_> 5
+Compare_Computer_Speed c1 c5
+Compare_Computer_Speed c9 c10
+Compare_Computer_Speed c1 c6
+Quit
+
+

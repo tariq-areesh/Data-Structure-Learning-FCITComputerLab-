@@ -1,0 +1,743 @@
+Welcome to the FCIT Lab  System.
+Today Date is Sat Jan 28 01:19:34 GMT+03:00 2023
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-14  Speed: 4.5 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-11  Speed: 4.4 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-X-Series  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 4.5 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15-DVD  Speed: 4.7 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-z-Series  Speed: 6.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-13-2-in-1  Speed: 4.8 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 5.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-17  Speed: 4.9 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: INSPIRON-Special-Edition  Speed: 6.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-14  Speed: 4.5 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-11  Speed: 4.4 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-X-Series  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15  Speed: 4.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 5.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-15-DVD  Speed: 4.7 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-z-Series  Speed: 6.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-13-2-in-1  Speed: 4.8 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: ESPRIMO-Y-Series  Speed: 5.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: Inspiron-17  Speed: 4.9 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Dell  Model: INSPIRON-Special-Edition  Speed: 6.2 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Computer
+
+
+Computer Details 
+Company :Fujitsu  Model: SRS  Speed: 5.6 GHz 
+-- Following Softwares are Installed in the Machine ---
+ No Software has been installed
+--- Following  Peripheral are  attached in the Machine ---
+ No Pripheral has been attached
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :HP Color Type: Colored  Printer Type :DeskJet
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :Canon Color Type: Black&white  Printer Type :DeskJet
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :Canon Color Type: Colored  Printer Type :DeskJet
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :HP Color Type: Black&white  Printer Type :Lazer
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :HP Color Type: Colored  Printer Type :Lazer
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :HP Color Type: Black&white  Printer Type :DeskJet
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :Canon Color Type: Black&white  Printer Type :Lazer
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Printer
+
+
+Printer Details 
+ 
+Company :Canon Color Type: Colored  Printer Type :Lazer
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Mouse
+
+
+Mouse Details 
+
+Company :HP Mouse Type: Wireless
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Mouse
+
+
+Mouse Details 
+
+Company :logitech Mouse Type: Wireless
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Microsoft-Office S/W version: 2015.0
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Kasper-Sky-Antivirus S/W version: 2015.0
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Microsoft-Visio S/W version: 2015.0
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Microsoft-Visual_Studio.net S/W version: 2015.0
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Mysql S/W version: 5.624
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: NetBeans-IDE S/W version: 8.2
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Adobe-Dreamweaver S/W version: 2015.0
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Adobe-Reader S/W version: 11.1
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: Adobe-Photoshop S/W version: 2015.0
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Add_Software
+
+
+Software Details 
+
+S/W name: MSSQL-Server S/W version: 2015.0
+
+ has been added to the FCIT Lab. Database.
+
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Microsoft-Office  has been installed in the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Microsoft-Office  has been installed in the The computer  Company : Fujitsu  Model: SRS
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Adobe-Dreamweaver  has been installed in the The computer  Company : Dell  Model: Inspiron-15
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Adobe-Photoshop  has been installed in the The computer  Company : Dell  Model: Inspiron-15-DVD
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Kasper-Sky-Antivirus  has been installed in the The computer  Company : Fujitsu  Model: ESPRIMO-Y-Series
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Kasper-Sky-Antivirus  has been installed in the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_SW
+
+The computer  Company : Fujitsu  Model: SRS
+has already S/W Microsoft-Office  installed..
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Mysql  has been installed in the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Microsoft-Office  has been installed in the The computer  Company : Dell  Model: Inspiron-15-DVD
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W NetBeans-IDE  has been installed in the The computer  Company : Fujitsu  Model: SRS
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Microsoft-Visio  has been installed in the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Microsoft-Visio  has been installed in the The computer  Company : Dell  Model: Inspiron-13-2-in-1
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Microsoft-Visual_Studio.net  has been installed in the The computer  Company : Dell  Model: INSPIRON-Special-Edition
+**************************************************************************************************************
+Command: Install_SW
+
+The computer  Company : Dell  Model: Inspiron-15-DVD
+has already S/W Adobe-Photoshop  installed..
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Adobe-Dreamweaver  has been installed in the The computer  Company : Fujitsu  Model: SRS
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Microsoft-Visual_Studio.net  has been installed in the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Mysql  has been installed in the The computer  Company : Dell  Model: INSPIRON-Special-Edition
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Mysql  has been installed in the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_SW
+
+The S/W Adobe-Reader  has been installed in the The computer  Company : Dell  Model: Inspiron-15
+**************************************************************************************************************
+Command: Install_SW
+
+The computer  Company : Dell  Model: Inspiron-14
+has 5 S/W installed.. You can not install any S/W
+**************************************************************************************************************
+Command: Install_printer
+
+The Printer HP  Printer Type :DeskJet  has been attached to the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_printer
+
+The Printer Canon  Printer Type :DeskJet  has been attached to the The computer  Company : Fujitsu  Model: SRS
+**************************************************************************************************************
+Command: Install_printer
+
+The Printer Canon  Printer Type :DeskJet  has been attached to the The computer  Company : Dell  Model: Inspiron-15
+**************************************************************************************************************
+Command: Install_printer
+
+The Printer HP  Printer Type :DeskJet  has been attached to the The computer  Company : Dell  Model: Inspiron-15-DVD
+**************************************************************************************************************
+Command: Install_printer
+
+The computer  Company : Dell  Model: Inspiron-14
+has already attached to Printer HP  Printer Type :DeskJet
+**************************************************************************************************************
+Command: Install_printer
+
+The Printer HP  Printer Type :Lazer  has been attached to the The computer  Company : Dell  Model: Inspiron-11
+**************************************************************************************************************
+Command: Install_printer
+
+The Printer HP  Printer Type :Lazer  has been attached to the The computer  Company : Dell  Model: Inspiron-15
+**************************************************************************************************************
+Command: Install_printer
+
+The Printer HP  Printer Type :DeskJet  has been attached to the The computer  Company : Fujitsu  Model: ESPRIMO-Y-Series
+**************************************************************************************************************
+Command: Install_mouse
+
+The Mouse HP  Wireless  has been attached to the The computer  Company : Dell  Model: Inspiron-14
+**************************************************************************************************************
+Command: Install_mouse
+
+The Mouse logitech  Wireless  has been attached to the The computer  Company : Fujitsu  Model: SRS
+**************************************************************************************************************
+Command: Install_mouse
+
+The Mouse HP  Wireless  has been attached to the The computer  Company : Dell  Model: Inspiron-15
+**************************************************************************************************************
+Command: Install_mouse
+
+The computer  Company : Dell  Model: Inspiron-14
+has already attached to Mouse HP  Wireless
+**************************************************************************************************************
+Command: Install_mouse
+
+The Mouse logitech  Wireless  has been attached to the The computer  Company : Fujitsu  Model: ESPRIMO-Y-Series
+**************************************************************************************************************
+Command: Install_mouse
+
+The Mouse logitech  Wireless  has been attached to the The computer  Company : Dell  Model: Inspiron-15-DVD
+**************************************************************************************************************
+Command: Install_mouse
+
+The Mouse HP  Wireless  has been attached to the The computer  Company : Fujitsu  Model: ESPRIMO-z-Series
+**************************************************************************************************************
+Command: Install_mouse
+
+The Mouse logitech  Wireless  has been attached to the The computer  Company : Dell  Model: Inspiron-13-2-in-1
+**************************************************************************************************************
+Command: Install_mouse
+
+The computer  Company : Fujitsu  Model: ESPRIMO-Y-Series
+has already attached to Mouse HP  Wireless
+**************************************************************************************************************
+Command: UnInstall_SW
+
+The S/W Microsoft-Visual_Studio.net  has been uninstalled from the The computer  Company : Dell  Model: INSPIRON-Special-Edition
+**************************************************************************************************************
+Command: UnInstall_SW
+
+The Software : Adobe-Photoshop  is not installed 
+in The computer  Company : Dell  Model: Inspiron-15
